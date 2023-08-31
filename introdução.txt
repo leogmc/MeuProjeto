@@ -4,6 +4,11 @@ Através dessa da eu serei capaz de aprender a manipular o GIT & GitHub.
 
  AGORA O PROGRAMA TAMBÉM POSSUI UMA BARRA DE NAVEGAÇÃO!
 
+
+ Adicionando informações ao arquivo introdução.txt como pedido na atividade 2. TIC18.
+
+ >-<
+=======
  >-<
 
 Fork e pull request 
