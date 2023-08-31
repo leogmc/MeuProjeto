@@ -5,14 +5,20 @@ Através dessa da eu serei capaz de aprender a manipular o GIT & GitHub.
  AGORA O PROGRAMA TAMBÉM POSSUI UMA BARRA DE NAVEGAÇÃO!
 
  >-<
+
+Fork e pull request 
+
+
+##Denil Oliveira 
+=======
  
 <<<<<< novaBranchLA
  ### NOVA FEATURE! ###
 Foi criada uma barra de pesquisa.
 
-=======
 
->>>>>> 
+
+
 
 
 
@@ -20,3 +26,4 @@ Foi criada uma barra de pesquisa.
 ▂▄▅█████████▅▄▃▂
 I███████████████████].
 ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
+
