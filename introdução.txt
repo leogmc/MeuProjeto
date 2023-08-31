@@ -41,4 +41,7 @@ Foi criada uma barra de pesquisa.
 I███████████████████].
 ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
 
+<<<<<<< HEAD
+>>>>>>> parent of ff750eb (Merge pull request #5 from lufecrx/main)
+=======
 >>>>>>> parent of ff750eb (Merge pull request #5 from lufecrx/main)
