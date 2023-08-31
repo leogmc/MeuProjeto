@@ -1,10 +1,5 @@
 <<<<<<< HEAD
 
-──▄────▄▄▄▄▄▄▄────▄───
-─▀▀▄─▄█████████▄─▄▀▀──
-─────██─▀███▀─██──────
-───▄─▀████▀████▀─▄────
-─▀█────██▀█▀██────█▀──
 
 =======
 Através dessa da eu serei capaz de aprender a manipular o GIT & GitHub.
@@ -45,3 +40,5 @@ I███████████████████].
 >>>>>>> parent of ff750eb (Merge pull request #5 from lufecrx/main)
 =======
 >>>>>>> parent of ff750eb (Merge pull request #5 from lufecrx/main)
+
+V 2.0!!!!!!!!!!!!
